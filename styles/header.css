@@ -1,0 +1,25 @@
+i,
+.req-color {
+  color: #39a6a3;
+}
+
+.icon-black {
+  color: black;
+}
+
+.bg-color {
+  background-color: #a7bbc7;
+}
+
+.font-white {
+  color: white;
+}
+
+.carosel-img {
+  height: 40vh;
+  width: 100vh;
+}
+
+.home-link {
+  background-color: red;
+}
